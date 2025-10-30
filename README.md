@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - 👨‍💻 I’m currently working on **Freelance**
 - 🌱 I’m currently learning **Game Developer**
 
-![Favorite Game](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFkdmc5b3JrYmFsejdxZnA0aTVscDh4aW52bXV3OXZ2bTVnNzg3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QxZUhRy3newBNOFM2M/giphy.gif)
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFkdmc5b3JrYmFsejdxZnA0aTVscDh4aW52bXV3OXZ2bTVnNzg3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QxZUhRy3newBNOFM2M/giphy.gif" alt="Gambar" width="1000"/>
+</p>
