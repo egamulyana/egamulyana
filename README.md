@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFkdmc5b3JrYmFsejdxZnA0aTVscDh4aW52bXV3OXZ2bTVnNzg3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QxZUhRy3newBNOFM2M/giphy.gif" alt="Banner" width="800" height="350" style="border-radius: 10px;" loop autoplay/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFkdmc5b3JrYmFsejdxZnA0aTVscDh4aW52bXV3OXZ2bTVnNzg3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QxZUhRy3newBNOFM2M/giphy.gif" alt="Banner" width="800" height="350" style="border-radius: 10px;" />
 </p>
 
 - 👨‍💻 I’m currently working on **Freelance**
@@ -26,12 +26,13 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJoMHFveDc1YzJxZmVlcXNtZzljYXE2MHZpeXVsMDU5amhudzRheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l35uQh8PkJjYKH7tNn/giphy.gif" alt="Banner" width="1000" height="10" style="border-radius: 10px;" />
 <img src="https://github-profile-trophy.vercel.app?username=egamulyana&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=egamulyana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
 </p>
 
 ##### Connect with me in another section
 <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"/> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/egamulyana/egamulyana/output/snake.svg" alt="Snake animation" />
