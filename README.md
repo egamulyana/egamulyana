@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFkdmc5b3JrYmFsejdxZnA0aTVscDh4aW52bXV3OXZ2bTVnNzg3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QxZUhRy3newBNOFM2M/giphy.gif" alt="Gambar" width="1000"/>
 </p>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFkdmc5b3JrYmFsejdxZnA0aTVscDh4aW52bXV3OXZ2bTVnNzg3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QxZUhRy3newBNOFM2M/giphy.gif" alt="Banner" width="100%" height="auto" style="border-radius: 10px;" />
+</p>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFkdmc5b3JrYmFsejdxZnA0aTVscDh4aW52bXV3OXZ2bTVnNzg3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QxZUhRy3newBNOFM2M/giphy.gif" alt="Banner" width="800" height="200" style="border-radius: 10px;" />
+</p>
