@@ -1,4 +1,4 @@
-## Hello world, I'm Ega Mulyana 👋
+## <p align="center">Hello world, I'm Ega Mulyana 👋</p>
 
 <!--
 **egamulyana/egamulyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
