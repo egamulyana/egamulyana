@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFkdmc5b3JrYmFsejdxZnA0aTVscDh4aW52bXV3OXZ2bTVnNzg3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QxZUhRy3newBNOFM2M/giphy.gif" alt="Banner" width="800" height="350" style="border-radius: 10px;" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFkdmc5b3JrYmFsejdxZnA0aTVscDh4aW52bXV3OXZ2bTVnNzg3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QxZUhRy3newBNOFM2M/giphy.gif" alt="Banner" width="800" height="350" style="border-radius: 10px;" loop autoplay/>
 </p>
 
 - 👨‍💻 I’m currently working on **Freelance**
